@@ -8,3 +8,4 @@ https://www.yuque.com/antfe/na005q
 3、重新下载node_modules以及运行文件
 	cnpm install
 	cnpm run dev
+	根据网址打开浏览器
