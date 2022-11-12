@@ -11,3 +11,7 @@ https://www.yuque.com/antfe/na005q
 	cnpm run dev
 	
 	根据网址打开浏览器
+
+![](首页界面.png)
+
+![](上传界面.png)
